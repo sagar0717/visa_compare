@@ -1,0 +1,8 @@
+node_modules/
+client/node_modules/
+.vscode/
+dev_config_setup.sh
+remote-config-setup.sh
+coverage/
+.DS_Store
+.env*

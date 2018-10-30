@@ -1,0 +1,6 @@
+{
+  "dbProvider": "mongodb",
+  "server": "localhost",
+  "db": "visa",
+  "requiresAuth": true
+}
